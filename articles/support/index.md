@@ -16,7 +16,7 @@ Additionally, subscribers can create a private ticket via [Support Center](https
 
 ### Ticket Response Times
 
-Ticket response times will vary based on your support plan (shown below). Additionally, our enterprise support customers will be provided a support phone number.
+Ticket response times will vary based on your support plan (shown below). Additionally, our Platinum support customers will be provided a support phone number.
 
 <table class="table">
   <thead>
@@ -67,4 +67,4 @@ Ticket response times will vary based on your support plan (shown below). Additi
   </tbody>
 </table>
 
-If you have specific support requirements or are interested in the __Enterprise Support__ option, please contact us at <sales@auth0.com>.
+If you have specific support requirements or are interested in the __Platinum Support__ option, please contact us at <sales@auth0.com>.
